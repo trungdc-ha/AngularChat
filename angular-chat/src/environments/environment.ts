@@ -16,13 +16,12 @@ export const environment = {
   // }
   config: {
     apiKey: "AIzaSyCA6746Y1607sLeQQaaQsIr2KD95zfs0g0",
-    authDomain: 'chat-with-admin-test.firebaseapp.com',
-    projectId: 'chat-with-admin-test',
-    storageBucket: 'chat-with-admin-test.appspot.com',
-    messagingSenderId: '916290610269',
-    appId: '1:916290610269:web:f3320a946d393a318ad9b4',
-    measurementId: 'G-L9YVT1W97Y',
+    authDomain: "fir-chat-19eed.firebaseapp.com",
     databaseURL: "https://fir-chat-19eed-default-rtdb.asia-southeast1.firebasedatabase.app",
+    projectId: "fir-chat-19eed",
+    storageBucket: "fir-chat-19eed.appspot.com",
+    messagingSenderId: "416032453560",
+    appId: "1:416032453560:web:cbd6cfaa08b3b098d9954d"
   }
 };
 

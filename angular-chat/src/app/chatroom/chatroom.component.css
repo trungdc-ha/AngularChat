@@ -40,7 +40,7 @@ footer.sticky-footer {
 }
 
 .message-form {
-  margin-left: 200px;
+  /*margin-left: 200px;*/
 }
 
 .message-form-field {
@@ -152,5 +152,6 @@ footer.sticky-footer {
 
 .chat-content {
   overflow-y: scroll;
-  height: 600px;
+  margin-bottom: 80px;
+  height: 800px;
 }
